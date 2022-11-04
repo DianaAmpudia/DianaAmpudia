@@ -36,7 +36,7 @@
 <a href="https://github.com/DianaAmpudia/CDMX013-data-lovers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-data-lovers&theme=aura" />
 </a>
-<a href="https://github.com/DianaAmpudia/CDMX013-social-network](https://github.com/DianaAmpudia/CDMX013-card-validation">
+<a href="https://github.com/DianaAmpudia/CDMX013-card-validation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-card-validation&theme=aura" />
 </a>
 
