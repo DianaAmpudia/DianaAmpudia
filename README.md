@@ -1,14 +1,7 @@
-<h1 align="center"> ✵ Hi, I'm Diana ✵</h1>
-<h3 align="center">Front-end developer</h3>
-
+![Masterhead](https://raw.githubusercontent.com/DianaAmpudia/DianaAmpudia/main/banner_dianaap.png)
 
 - 🔭 I’m currently working on [MD-Links](https://github.com/DianaAmpudia/CDMX013-md-links)
 - 🌱 I’m currently learning **Node JS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dianalauraampudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianalauraampudia" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools:
 
@@ -23,3 +16,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaampudia&show_icons=true&locale=en&layout=compact" alt="dianaampudia" /></p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/dianalauraampudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianalauraampudia" height="30" width="40" /></a>
+</p>
