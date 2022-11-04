@@ -22,5 +22,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/dianalauraampudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianalauraampudia" height="50" width="40" /></a>
-<a href="mailto:dianalauraampudia@gmail.com"><img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" height="55" width="55" /></a>
+<a href="mailto:dianalauraampudia@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50" width="50" /></a>
 </p>
