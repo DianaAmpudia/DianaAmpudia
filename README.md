@@ -19,10 +19,10 @@
 
 ### 📊 GitHub Stats:
 <a href="https://github-readme-stats.vercel.app/api?username=dianaampudia&theme=aura&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianaampudia&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="355"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dianaampudia&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="400"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaampudia&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaampudia&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaampudia&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
 </a>
 
 ### 🗂️ Repositorios:
@@ -43,5 +43,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/dianalauraampudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianalauraampudia" height="50" width="40" /></a>
-<a href="mailto:dianalauraampudia@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="85" /></a>
+<a href="mailto:dianalauraampudia@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="90" /></a>
 </p>
