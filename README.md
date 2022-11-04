@@ -1,6 +1,4 @@
-<h2 align="center" >
-    Hello World!✨
-</h2>
+<h2 align="center"> Hello World!✨</h2>
 
 ![Masterhead](https://raw.githubusercontent.com/DianaAmpudia/DianaAmpudia/main/banner_dianaap.png)
 
@@ -45,5 +43,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/dianalauraampudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dianalauraampudia" height="50" width="40" /></a>
-<a href="mailto:dianalauraampudia@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="50" width="50" /></a>
+<a href="mailto:dianalauraampudia@gmail.com"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" height="50" width="85" /></a>
 </p>
