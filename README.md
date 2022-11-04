@@ -16,8 +16,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dianaampudia&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dianaampudia&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dianaampudia&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaampudia&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="190"/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
