@@ -27,8 +27,8 @@
 
 ### 🗂️ Repositorios:
 
-<a href="https://github.com/DianaAmpudia/CDMX013-md-links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-md-links&theme=aura" />
+<a href="https://github.com/DianaAmpudia/CDMX013-burger-queen-api-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-burger-queen-api-client&theme=aura" />
 </a>
 <a href="https://github.com/DianaAmpudia/CDMX013-social-network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-social-network&theme=aura" />
