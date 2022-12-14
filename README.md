@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaampudia&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width= "400"/>
 </a>
 
-### 🗂️ Repositorios:
+### 🗂️:
 
 <a href="https://github.com/DianaAmpudia/CDMX013-burger-queen-api-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DianaAmpudia&repo=CDMX013-burger-queen-api-client&theme=aura" />
