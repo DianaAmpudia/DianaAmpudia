@@ -2,7 +2,6 @@
 
 ![Masterhead](https://raw.githubusercontent.com/DianaAmpudia/DianaAmpudia/main/banner_dianaap.png)
 
-- 🔭 I’m currently working on [Burger Queen](https://github.com/DianaAmpudia/CDMX013-burger-queen-api-client)
 - 🌱 I’m currently learning **React**
 
 ### ✨Languages and Tools:
