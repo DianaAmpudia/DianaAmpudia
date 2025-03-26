@@ -1,6 +1,6 @@
 <h2 align="center"> Hello World!✨</h2>
 
-![Masterhead](https://raw.githubusercontent.com/DianaAmpudia/DianaAmpudia/main/banner_dianaap.png)
+![Masterhead](https://github.com/user-attachments/assets/8c19596e-522f-47af-b0ad-d802f632dcf5)
 
 
 ### ✨Languages and Tools:
